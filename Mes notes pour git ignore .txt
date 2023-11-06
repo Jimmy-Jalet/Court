@@ -1,0 +1,2 @@
+Mes notes pour git ignore 
+Partie 1
